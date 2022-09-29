@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "chprog-lib",
+    "chprog-cli",
+]
